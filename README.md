@@ -1,9 +1,9 @@
 # AI-Receptionist-
 AI receptionist systems to help  local businesses prevent missed calls from becoming lost customers.  The system handles incoming enquiries, answers common questions, book appointments on the spot.
 
+[![Watch AI Receptionist Demo](https://cdn.phototourl.com/member/2026-10-01-a4394fe2-bbd1-4fc3-b343-da124b84948a.jpg)](https://drive.google.com/file/d/19zn3P96BWhqM2psuLYVkJ9URwiiaFNer/view?usp=sharing)
 
-<img width="1366" height="645" alt="AI Receptionist dashbaord" src="https://github.com/user-attachments/assets/f3b26f8a-c408-45c1-8d90-5690c6ed43ef" />
-<img width="1366" height="645" alt="ghl ai reception" src="https://github.com/user-attachments/assets/a297b4f7-26b2-4aba-8966-7503228b42db" />
+**▶ Watch the AI Receptionist Demo**
 <img width="1366" height="645" alt="UK plumbing business Prompt" src="https://github.com/user-attachments/assets/d8157a43-43be-4756-b290-89b2d5b8b876" />
 AI Receptionist for a UK Plumbing Business
 Turning missed calls into captured opportunities.
